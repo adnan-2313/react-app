@@ -1,0 +1,30 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+  background-color: antiquewhite;
+}
+
+
+.container{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 150px;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px solid white;
+  border-radius: 20px;
+  color: navy;
+  background-color: brown;
+}
+h1{
+  background-color: brown;
+}
+span{
+  background-color: brown;
+  
+}
